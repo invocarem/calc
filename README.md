@@ -14,6 +14,9 @@ It should support the folowing operators:
 3. write requirement.txt for installation
 4. write calc.md to document how to install, test, and usage.
 
+## calc bug fix
+bug fix on @file:calc.py
+
 
 ## hello prompt
 
