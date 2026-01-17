@@ -2,3 +2,15 @@ aggregated_prompt.*
 assumption_data.*
 file.txt
 *.swp
+venv/
+*_step_1.json
+*_step_2.json
+*_step_3.json
+*_step_4.json
+*_step_5.json
+*_step_6.json
+*_step_7.json
+*_step_8.json
+*_step_9.json
+*_step_10.json
+*_step_11.json

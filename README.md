@@ -17,6 +17,9 @@ It should support the folowing operators:
 ## calc bug fix
 bug fix on @file:calc.py
 
+## run calc
+
+run calc.py on the terminal to test some operations, and show me the result
 
 ## hello prompt
 
