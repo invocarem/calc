@@ -25,5 +25,7 @@ run calc.py on the terminal to test some operations, and show me the result
 
 help me to create a hello module
 Step 1. create hello.py with greet function and main block
+- greet takes a parameter name, print the greeting
+- __main__ would take name as a cli option, default is World
 Step 2. create test_hello.py to test greet
 Step 3. write hello.md to document hello module
